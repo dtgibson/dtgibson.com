@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/dtgibson
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dtgibson.com
+  * I am dtgibson (https://keybase.io/dtgibson) on keybase.
+  * I have a public key ASDTwoj7AEA10g_LTw0BuxpIIyZaZ8jweGqnsF7EJ-AzLgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101672a28e535f7fd27adad95b906d38e310947710f0fef64ab9197b8a11ead64440a",
+            "host": "keybase.io",
+            "kid": "0120d3c288fb004035d20fcb4f0d01bb1a4823265a67c8f0786aa7b05ec427e0332e0a",
+            "uid": "5cdf0b68c6a803096f112c880abd9500",
+            "username": "dtgibson"
+        },
+        "service": {
+            "hostname": "dtgibson.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1476765290,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1476764749,
+        "hash": "48a45722e1c05d8662a717214111c28de4361cfe5f67edec36bbee6058b4476695179f0492d9d73d0103aa81e4474be841f21d305828088075b5339f81324753",
+        "seqno": 679133
+    },
+    "prev": "84355e297f3bdb19f6a468bb255fd0a88826edfb4858eaacff42979f7bff1491",
+    "seqno": 38,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg08KI+wBANdIPy08NAbsaSCMmWmfI8Hhqp7BexCfgMy4Kp3BheWxvYWTFAvV7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNjcyYTI4ZTUzNWY3ZmQyN2FkYWQ5NWI5MDZkMzhlMzEwOTQ3NzEwZjBmZWY2NGFiOTE5N2I4YTExZWFkNjQ0NDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZDNjMjg4ZmIwMDQwMzVkMjBmY2I0ZjBkMDFiYjFhNDgyMzI2NWE2N2M4ZjA3ODZhYTdiMDVlYzQyN2UwMzMyZTBhIiwidWlkIjoiNWNkZjBiNjhjNmE4MDMwOTZmMTEyYzg4MGFiZDk1MDAiLCJ1c2VybmFtZSI6ImR0Z2lic29uIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJkdGdpYnNvbi5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNyJ9LCJjdGltZSI6MTQ3Njc2NTI5MCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDc2NzY0NzQ5LCJoYXNoIjoiNDhhNDU3MjJlMWMwNWQ4NjYyYTcxNzIxNDExMWMyOGRlNDM2MWNmZTVmNjdlZGVjMzZiYmVlNjA1OGI0NDc2Njk1MTc5ZjA0OTJkOWQ3M2QwMTAzYWE4MWU0NDc0YmU4NDFmMjFkMzA1ODI4MDg4MDc1YjUzMzlmODEzMjQ3NTMiLCJzZXFubyI6Njc5MTMzfSwicHJldiI6Ijg0MzU1ZTI5N2YzYmRiMTlmNmE0NjhiYjI1NWZkMGE4ODgyNmVkZmI0ODU4ZWFhY2ZmNDI5NzlmN2JmZjE0OTEiLCJzZXFubyI6MzgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAg026mH1QCmb+ggqqBjmWGiF1TSBQDOUvH1hfHU2qx/j2wAQ4gNg+PldhSvgRWw/73m2JeGAi9nqrLg/KEu7CA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICvRKWTevPNNKzGj5lMrtwkdi/iYmHWqt9397La3KFRNo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dtgibson
+
+==================================================================
